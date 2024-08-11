@@ -1,0 +1,1 @@
+This course provides an in-depth understanding of wireless and mobile networking technologies, essential for modern communication systems. It covers the principles, architecture, and protocols of wireless communication, including Wi-Fi, Bluetooth, cellular networks (2G, 3G, 4G, and 5G), and emerging technologies like Mobile Ad-hoc Networks (MANETs)
